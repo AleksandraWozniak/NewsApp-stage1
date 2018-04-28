@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp1</string>
+    <string name="no_news">No news were found. There was an unexpected problem with downloading data from the server. Close the app and try once again later.</string>
+    <string name="no_internet">No internet connection has been found. Please turn on your wifi or mobile data and restart the app.</string>
+    <string name="no_date">No date of article publication was found.</string>
+    <string name="no_webbrowser">No webbrowser has been found. Please download a webrowser.</string>
+</resources>
