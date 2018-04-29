@@ -1,6 +1,7 @@
 # NewsApp-stage1
 
-News app which gives a user regularly-updated news from the internet related to a particular topic, person, or location. It was written in Java and Android.
+The news app gives a user regularly-updated news from the internet related to a particular topic, person, or location from Guardian. 
+It was written in Java and Android.
 
 This project is about combining various ideas and skills, using Guardian API. They include:
 •	Connecting to an API
