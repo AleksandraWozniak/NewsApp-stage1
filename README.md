@@ -6,10 +6,12 @@ It was written in Java and Android.
 This project is about combining various ideas and skills, using Guardian API. They include:
 •	Connecting to an API
 •	Parsing the JSON response
-•	Handling error cases gracefully
+•	Handling error cases
 •	Updating information regularly
-•	Using an AsyncTask
+•	Networking operations are done using a Loader rather than an AsyncTask
 •	Doing network operations independent of the Activity lifecycle
+
+App queries the content.guardianapis.com api to fetch news stories related to a particular topic. Clicking on a story uses an intent to open the story in the user’s browser.
 
 This is just a practice app for the <a href="https://www.udacity.com/google-scholarships">Google Developer Challenge Scholarship: Android Basics</a> I received for the Android Basics path (Udacity courses ud836/nd803). 
 
