@@ -13,6 +13,6 @@ This project is about combining various ideas and skills, using Guardian API. Th
 
 App queries the content.guardianapis.com api to fetch news stories related to a particular topic. Clicking on a story uses an intent to open the story in the user’s browser.
 
-This is just a practice app for the <a href="https://www.udacity.com/google-scholarships">Google Developer Challenge Scholarship: Android Basics</a> I received for the Android Basics path (Udacity courses ud836/nd803). 
+This is just a practice app for the <a href="https://www.udacity.com/google-scholarships">Google Developer Challenge Scholarship: Android Basics</a> I received for the Android Basics path. 
 
 ![alt text](https://raw.githubusercontent.com/AleksandraWozniak/NewsApp-stage1/master/Screenshot_2018-04-29-06-05-09.png)
