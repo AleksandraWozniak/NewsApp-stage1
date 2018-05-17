@@ -1,4 +1,4 @@
-# NewsApp-stage1
+# NewsApp-stage1 - project-6
 
 The news app gives a user regularly-updated news from the internet related to a particular topic, person, or location from Guardian. 
 It was written in Java and Android.
